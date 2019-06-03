@@ -8,6 +8,7 @@ In this code-along, we will practice working with control flow in JavaScript.
 2. Practice working with the ternary operator.
 3. Practice writing `switch` statements.
 
+
 ## Introduction
 You have been hired as a contractor for Scuber, a burgeoning startup that helps
 busy parents transport their children to and from all of their activities on
@@ -147,4 +148,3 @@ through the assignment,.
 Good luck!
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-basics-flow-control'>Control Flow Lab</a> on Learn.co and start learning to code for free.</p>
-
